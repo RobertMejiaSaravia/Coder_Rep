@@ -27,5 +27,3 @@
 
 #juntar ramas en main:
 #git merge "funciones-nuevas"
-
-#mensaje de prueba
