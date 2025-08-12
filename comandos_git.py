@@ -27,3 +27,12 @@
 
 #juntar ramas en main:
 #git merge "funciones-nuevas"
+
+#Clase 9
+#Comenzamos con la instalacion de git, luego comenzamos colocando el nombre y email del proyecto actual
+#Creamos la carpeta git
+#hay distintos comandos para agregar, revisar el status y nombrar los cambios
+#creamos un repositorio en github y los codigos de ese repositorio se colocan aqui en la terminal
+#una vez que queramos subir lo que hemos hecho, lo mandamos al repositorio
+#luego creamos una rama nueva, y procedemos a cerrarla tambien
+#combinamos la rama nueva creada con la main
